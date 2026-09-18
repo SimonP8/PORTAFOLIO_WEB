@@ -15,7 +15,7 @@ import projectPlaceholder from '../assets/images/project-placeholder.svg'
 // PERFIL: información principal que aparece en la sección Hero
 // ----------------------------------------------------------------------------
 export const profileData = {
-  name: 'Juan Pérez',
+  name: 'SIMON PELAEZ',
   title: 'Ingeniero de Software',
   tagline: 'Construyo aplicaciones web robustas, desde la base de datos hasta la interfaz.',
   location: 'Bogotá, Colombia',
